@@ -1,0 +1,15 @@
+3fbc568ffa5fb23115fec83df3e33f3a *DESCRIPTION
+a60f681c70b06d6caf4ca1d5fbf3874f *NAMESPACE
+d541986cd8bda7fe4080fa2900c3e70c *R/CalcMeanVar.R
+dbc582a504bb9e0289a561117472d6a3 *R/OutMisDat.R
+83616f9c5f3ef0fe8ed42f6f75857859 *R/RobMeanVar.R
+4c615dece09ee971fa4fff4353047223 *R/Sim2Group.R
+15d79924d210bf3a99810cb7b10f7375 *R/performance.eval.R
+8ed59f81b45cc57d7051793d516f0bbc *R/remat.R
+8600ee79a909f8a07cae795f4781307d *man/CalcMeanVar.Rd
+176f8a932a185dd0e3bf749c4ce9633d *man/OutMisDat.Rd
+dd6fba6e12f01db45c41fcc650c0e352 *man/RobMeanVar.Rd
+bd9ef2c8a4c3b3c9415917991ceb092d *man/Sim2Group.Rd
+89a83ce7c97dbbc1636b80d81504ca83 *man/performance.eval.Rd
+93589a9ffdb4c69e48dba747b149a4c6 *man/rMisbeta-package.Rd
+7e8bbbd68ade5ab82d5fde7e5ec54c49 *man/remat.Rd
